@@ -1,2 +1,2 @@
 # praktikumwebprogramming
-Praktikum Web Programming C
+Praktikum Web Programming Week 1
